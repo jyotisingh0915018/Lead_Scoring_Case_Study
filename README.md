@@ -27,7 +27,7 @@
         not wherein 1 means it was converted and 0 means it wasn’t converted. You can learn more about the dataset from
         the data dictionary provided in the zip folder at the end of the page. Another thing that you also need to check
         out are the levels present in the categorical variables. Many of the categorical variables have a level called
-        'Select' which needs to be handled because it is as good as a null value (think why?).</p>
+        'Select' which needs to be handled because it is as good as a null value.</p>
     <p>&nbsp;</p>
     <h2><strong>Goals of the Case Study</strong></h2>
     <p>There are quite a few goals for this case study:</p>
